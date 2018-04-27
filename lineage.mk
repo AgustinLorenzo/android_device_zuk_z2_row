@@ -43,3 +43,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
 BUILD_FINGERPRINT := "ZUK/z2_row/z2_row:8.0.0/OPR1.170623.032/3.5.344_180404:user/release-keys"
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+DEVICE_MAINTAINERS="Agustin Lorenzo (AgustinLorenzo in XDA and @agustindev in Telegram)"
